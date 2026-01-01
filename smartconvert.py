@@ -18,7 +18,7 @@ st.set_page_config(page_title="스마트스토어 일괄상품등록 변환기",
 # =========================
 # 1) 내장(권장): embed_assets.py로 생성한 base64를 붙여 넣으세요
 # =========================
-TEMPLATE_B64 = ""  # ExcelSaveTemplate_250311.xlsx base64
+TEMPLATE_B64 = ""  # ExcelSaveTemplate_250311 (2).xlsx base64
 CATEGORY_B64 = ""  # category_20260102_012842.xls base64
 
 # =========================
