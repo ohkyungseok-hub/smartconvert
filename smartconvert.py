@@ -13,7 +13,7 @@ TEMPLATE_B64 = ""  # <-- 여기에 base64 붙여넣기
 CATEGORY_B64 = ""  # <-- 여기에 base64 붙여넣기
 
 # (선택) 폴백용 경로(리포에 파일이 있을 때만 사용)
-TEMPLATE_PATH = "ExcelSaveTemplate_250311.xlsx"
+TEMPLATE_PATH = "ExcelSaveTemplate_250311 (2).xlsx"
 CATEGORY_MASTER_PATH = "category_20260102_012842.xls"
 
 # 고정값
