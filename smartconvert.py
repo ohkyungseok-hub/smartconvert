@@ -15,7 +15,7 @@ st.set_page_config(page_title="스마트스토어 일괄상품등록 변환기",
 TEMPLATE_B64 = ""
 CATEGORY_B64 = ""
 
-TEMPLATE_PATH = "ExcelSaveTemplate_250311.xlsx"
+TEMPLATE_PATH = "ExcelSaveTemplate_250311 (2).xlsx"
 CATEGORY_MASTER_PATH = "category_20260102_012842.xls"
 
 # =========================
