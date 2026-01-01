@@ -24,7 +24,7 @@ CATEGORY_B64 = ""  # category_20260102_012842.xls base64
 # =========================
 # 2) 폴백(선택): repo/폴더에 파일이 존재하면 읽습니다
 # =========================
-TEMPLATE_PATH = "ExcelSaveTemplate_250311.xlsx"
+TEMPLATE_PATH = "ExcelSaveTemplate_250311 (2).xlsx"
 CATEGORY_MASTER_PATH = "category_20260102_012842.xls"
 
 # =========================
